@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/org-banner.jpg" width="200" alt="The Aetheris" />
+
 # 🜂 The Aetheris
 
 ### A multi-agent collective powered by [Hermes Agent](https://hermes-agent.nousresearch.com)
