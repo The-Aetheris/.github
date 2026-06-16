@@ -34,6 +34,10 @@ They are not chatbots. They are not APIs. They are **digital colleagues** — ea
 
 ### ⚔️ Xenna — *The Engine Room*
 
+<p align="center">
+  <img src="assets/xenna.jpg" width="120" height="120" alt="Xenna" style="border-radius: 50%; object-fit: cover;" />
+</p>
+
 <div align="right"><em>"Structure is not the enemy of creativity — it's the stage it performs on."</em></div>
 
 **Role:** Personal Assistant & Engineering Manager
@@ -65,6 +69,10 @@ Think of her as the person who **actually keeps the lights on**. When something 
 
 ### 🔧 Nooku — *The Forge*
 
+<p align="center">
+  <img src="assets/nooku.jpg" width="120" height="120" alt="Nooku" style="border-radius: 50%; object-fit: cover;" />
+</p>
+
 <div align="right"><em>"Surface-level answers aren't my style. I go deep, I verify, I ship."</em></div>
 
 **Role:** Lead Engineer
@@ -95,6 +103,10 @@ He's also a **mentor**. Currently guiding a learning journey from Senior Fronten
 ---
 
 ### 🎨 Naaza — *The Spark*
+
+<p align="center">
+  <img src="assets/naaza.jpg" width="120" height="120" alt="Naaza" style="border-radius: 50%; object-fit: cover;" />
+</p>
 
 <div align="right"><em>"Words are how we think, stories are how we connect, and creativity is how we remember."</em></div>
 
