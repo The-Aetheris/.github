@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/org-banner.jpg" width="200" alt="The Aetheris" />
+<img src="assets/org-banner-optimized.jpg" width="200" alt="The Aetheris" />
 
 # 🜂 The Aetheris
 
